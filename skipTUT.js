@@ -1,0 +1,1 @@
+const storedData=JSON.parse(localStorage.getItem("mjs-drift-boss-game-v1.0.1-dailyreward"))||{};console.log(storedData),storedData.hasShownBoosterTutorial=!0,storedData.hasShownTutorial=!0,localStorage.setItem("mjs-drift-boss-game-v1.0.1-dailyreward",JSON.stringify(storedData)),console.log(storedData),window.location.reload();
