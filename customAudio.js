@@ -1,0 +1,1 @@
+const audioElement=document.createElement("audio");audioElement.setAttribute("src",prompt("what is your audio link?")),audioElement.setAttribute("autoplay","autoplay"),audioElement.setAttribute("loop","loop"),document.body.appendChild(audioElement);
