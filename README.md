@@ -7,7 +7,7 @@
   2. on mobile create a bookmark but when you edit it change the link to javascript: and the code
   3. thats it for mobile on pc just paste the code into the client console with dev tools
 
-#hacks
+ # hacks
 1. spoof car: this will let you use any car just by their id number
 2. unlock all cars: this is just self explainatory
 3. set score: set your best score to any amount
